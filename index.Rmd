@@ -1339,7 +1339,7 @@ election_dat30 %>%
 
 ### `r last30days_string` (Last 30 days)
 
-```{r, fig.width= 12, fig.height=10, dpi = 300}
+```{r, fig.width= 13, fig.height=12, dpi = 300}
 
 
 calc_jobs_perc <- function(x) {
